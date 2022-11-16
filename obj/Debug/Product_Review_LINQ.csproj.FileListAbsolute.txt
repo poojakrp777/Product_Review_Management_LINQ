@@ -1,0 +1,8 @@
+C:\Users\Dell\source\repos\Product_Review_LINQ\Product_Review_LINQ\bin\Debug\Product_Review_LINQ.exe.config
+C:\Users\Dell\source\repos\Product_Review_LINQ\Product_Review_LINQ\bin\Debug\Product_Review_LINQ.exe
+C:\Users\Dell\source\repos\Product_Review_LINQ\Product_Review_LINQ\bin\Debug\Product_Review_LINQ.pdb
+C:\Users\Dell\source\repos\Product_Review_LINQ\Product_Review_LINQ\obj\Debug\Product_Review_LINQ.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Product_Review_LINQ\Product_Review_LINQ\obj\Debug\Product_Review_LINQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\Product_Review_LINQ\Product_Review_LINQ\obj\Debug\Product_Review_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Product_Review_LINQ\Product_Review_LINQ\obj\Debug\Product_Review_LINQ.exe
+C:\Users\Dell\source\repos\Product_Review_LINQ\Product_Review_LINQ\obj\Debug\Product_Review_LINQ.pdb
